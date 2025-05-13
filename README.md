@@ -1,16 +1,20 @@
-## Hi there 👋
+# CV
 
-<!--
-**lerademeshko/lerademeshko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Hello, World! 👋**
 
-Here are some ideas to get you started:
+**Skills**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- SQL
+- Git
+- C
+
+**Education**
+
+**School 21 ([École 42](https://42.fr/)), Moscow 2023** — **2025**
+
+**Moscow Aviation Institute", Moscow 2021**
+
+**Language proficiency**
+
+- Russian — Native
+- English — B2 — Advanced
